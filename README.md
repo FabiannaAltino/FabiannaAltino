@@ -1,10 +1,10 @@
 ## # 👋 Olá, eu sou Fabianna Altino
 
-### Analista de Requisitos Jr | Business Analyst | Produto & UX
+### Business Analyst | Requisitos | Produto | UX | Tecnologia
 
 Sou formada em Comunicação Social – Jornalismo e construí minha experiência profissional na área de Comunicação e Conteúdo. Possuo MBA em UX Design, Arquitetura da Informação e Usabilidade e, atualmente, curso Análise e Desenvolvimento de Sistemas na PUCRS.
 
-Minha trajetória une **comunicação, experiência do usuário e tecnologia**, com foco em transformar necessidades de negócio em requisitos claros, processos estruturados e soluções digitais.
+Minha experiência combina comunicação, experiência do usuário e tecnologia, com foco em compreender necessidades de negócio, estruturar requisitos, organizar processos e contribuir para soluções digitais.
 
 Durante minha formação em ADS, venho desenvolvendo projetos envolvendo **levantamento e documentação de requisitos, regras de negócio, User Stories, critérios de aceite, modelagem de processos, desenvolvimento web, bancos de dados e análise de dados**.
 
@@ -205,6 +205,7 @@ Projeto de análise de dados utilizando uma base de clientes de telecomunicaçõ
 - Análise de Dados
 - Metodologias Ágeis
 - Produto Digital
+- Microsoft Power BI para Business Intelligence e Data Science
 
 ---
 
